@@ -1,0 +1,9 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.CalculadoraDeNota" parent="Theme.AppCompat.DayNight.DarkActionBar">
+        <item name="colorPrimary">@color/dark_gray</item>
+        <item name="android:statusBarColor">@color/dark_gray</item>
+    </style>
+
+    <style name="Theme.CalculadoraDeNota" parent="Base.Theme.CalculadoraDeNota" />
+</resources>
